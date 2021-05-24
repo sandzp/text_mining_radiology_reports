@@ -10,8 +10,9 @@ Once extracted the ratios were to be compiled and a mean ratio for all the repor
 
 Solutions:
 
+**The mean RV/LV ratio, calculated from 83222 reports is 1.201**
+
 ![](https://github.com/sandzp/text_mining_radiology_reports/blob/main/figure1.png)
 
-The mean RV/LV ratio, calculated from 83222 reports is 1.201
 
 
